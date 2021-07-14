@@ -29,7 +29,7 @@ body {
 }
 
 .container nav {
-    width: 80%;
+    width: 70%;
     display: flex;
     font-size: 1.5rem;
     font-family: Inconsolata;
@@ -40,7 +40,7 @@ body {
 }
 
 .hero-section {
-    width: 80%;
+    width: 70%;
     height: calc(100% - 15rem);
     display: flex;
     justify-content: space-between;
@@ -51,8 +51,8 @@ body {
 } 
 
 .hero-section .image {
-    width: 35vw;
-    height: 50%;
+    width: 40vw;
+    height: 60%;
     background-image: url("../Scarecrow.png");
     background-size: contain;
     background-repeat: no-repeat;
